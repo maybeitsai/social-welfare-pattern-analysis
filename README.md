@@ -1,5 +1,7 @@
 # Worker Welfare in Indonesia - Machine Learning Project
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Overview
 
 This project analyzes worker welfare in Indonesia using machine learning techniques, focusing on economic indicators from multiple datasets. The analysis combines clustering to identify patterns and classification to predict welfare groups based on key economic factors.
